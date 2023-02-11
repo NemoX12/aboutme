@@ -1,0 +1,21 @@
+li {
+      font-size: 18px
+      }
+    .hobbyt, .education, .skills {
+        /* margin-left: 50px; */
+        text-align: center;
+        font-weight: lighter;
+    }
+    .victoryg {
+        margin-top: 5px;
+    }
+    .welct {
+        text-align: center;
+    }
+    .ckills {
+        font-weight: lighter;
+    }
+    .messenger {
+        width: 40px;
+        border-radius: 12px;
+    }

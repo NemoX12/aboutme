@@ -1,3 +1,5 @@
+<link href="assests\styles\style.css" rel="stylesheet">
+
 **<h1 class="welct">Hi I am Serhii</h1>**
 
 
@@ -68,7 +70,7 @@
 <a href="https://twitter.com/NemooX_"><img src="assests\img\124021.png" alt="twitter" class="messenger"></a>
 <a href="mailto:turret2009@gmail.com"><img src="assests\img\3649010.png" alt="twitter" class="messenger"></a>
 
-<style>
+<!-- <style>
     li {
       font-size: 18px
       }
@@ -90,4 +92,4 @@
         width: 40px;
         border-radius: 12px;
     }
-</style>
+</style> -->
