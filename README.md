@@ -9,7 +9,7 @@
 <picture class="victoryg">
 
   
-<h2 class="hobbyt"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/512.gif" alt="✌" width="32" height="32">My hobbies </h2> 
+<h2 class="hobbyt"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/512.gif" alt="✌" width="32" height="32"> My hobbies</h2> 
 </div>
 
 <ul class="hobbiesul"></br>
